@@ -22,7 +22,7 @@ For this case it is like this.
               B A L L                         2 4 5 5
              ---------                       ---------
             G A M E S                       0 4 9 1 6
-Algorithm
+# Algorithm
 For this problem, we will define a node, which contains a letter and its corresponding values.<br>
 
 isValid(nodeList, count, word1, word2, word3)<br>
